@@ -29,5 +29,5 @@ $db = "DATABASE NAME";      // Change DATABASE NAME to the name from Step 2
 
 ## Screenshots
 Landing page  
-<img src="https://github.com/amark720/PHP-Projects/blob/master/Secret%20Diary%20(php%2BMysql%2BJS)/ScreenShot.PNG" alt="Landing Page" height="80%" width="80%">
+<img src="https://github.com/amark720/PHP-Projects/blob/master/Secret%20Diary%20(php%2BMysql%2BJS)/ScreenShot.PNG" alt="Landing Page" height="90%" width="100%">
 
