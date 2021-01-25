@@ -1,6 +1,7 @@
 # PHP-Projects
 
-## This Repository consists PHP Projects made by Me.
+
+### This Repository consists PHP Projects made by Me.
 
 * Visit each folder to access all the Projects in detail.
 
