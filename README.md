@@ -7,4 +7,6 @@
 
 <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/PHP_Projecs_Banner.png" alt="Landing Page" height="40%" width="60%">
 
-#### Feel Free to contact me at➛ amark720@gmail.com for any help related to Projects in this Repository!
+### Don't forget to ⭐ the repository, if it helped you in anyway.
+
+#### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
